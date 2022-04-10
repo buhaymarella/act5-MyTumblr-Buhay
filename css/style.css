@@ -8292,9 +8292,9 @@ h1, h2, h3, h4, h5,
 
 /* Style the checkmark/indicator */
 .checkbox-primary {
-  color: #8d448b; }
+  color: lightgray; }
   .checkbox-primary input:checked ~ .checkmark:after {
-    color: #8d448b; }
+    color: lightgray; }
 
 .btn {
   cursor: pointer;
