@@ -35,7 +35,7 @@ elseif (isset($_REQUEST['logout'])===true) {
 }
 
 body {
-    background: #654ea3;
+    background: #8d448b;
     background: linear-gradient(to right, #e96443, #904e95);
     min-height: 100vh;
     overflow-x: hidden
@@ -65,10 +65,10 @@ body {
                         <h5 class="font-weight-bold mb-0 d-block">21,150</h5><small class="text-muted"> <i class="fas fa-image mr-1"></i>Photos</small>
                     </li>
                     <li class="list-inline-item">
-                        <h5 class="font-weight-bold mb-0 d-block">756,450</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Followers</small>
+                        <h5 class="font-weight-bold mb-0 d-block">1,756,450</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Followers</small>
                     </li>
                     <li class="list-inline-item">
-                        <h5 class="font-weight-bold mb-0 d-block">340</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Following</small>
+                        <h5 class="font-weight-bold mb-0 d-block">0</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Following</small>
                     </li>
                 </ul>
             </div>
@@ -76,9 +76,9 @@ body {
             <div class="px-4 py-3">
                 <h5 class="mb-0">Expertise </h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Self taught Artist</p>
-                    <p class="font-italic mb-0">Mobile App Developer</p>
-                    <p class="font-italic mb-0">Photographer/Videographer</p>
+                    <p class="font-italic mb-0">Portrait Artist</p>
+                    <p class="font-italic mb-0">Web Developer</p>
+                    <p class="font-italic mb-0">Digital Artist</p>
                 </div>
             </div>
 
@@ -88,10 +88,10 @@ body {
                 </div>
                 <div class="row">
                     
-                    <div class="col-lg-6 mb-2 pr-lg-1"><img src="images/photo-1.avif" alt="" class="img-fluid rounded shadow-sm"></div>              
-                    <div class="col-lg-6 mb-2 pl-lg-1"><img src="images/photo-2.avif" alt="" class="img-fluid rounded shadow-sm"></div>                
-                    <div class="col-lg-6 pr-lg-1 mb-2"><img src="images/photo-3.avif" alt="" class="img-fluid rounded shadow-sm"></div>
-                    <div class="col-lg-6 pl-lg-1"><img src="images/photo-4.avif" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 mb-2 pr-lg-1"><img src="images/cat.png" alt="" class="img-fluid rounded shadow-sm"></div>              
+                    <div class="col-lg-6 mb-2 pl-lg-1"><img src="images/art.png" alt="" class="img-fluid rounded shadow-sm"></div>                
+                    <div class="col-lg-6 pr-lg-1 mb-2"><img src="images/me.png" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 pl-lg-1"><img src="images/Cat(1).png" alt="" class="img-fluid rounded shadow-sm"></div>
                 </div> 
             </div>
 

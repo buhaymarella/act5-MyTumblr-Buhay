@@ -6,7 +6,7 @@ session_start();
 $acc_username = "marella";
 $acc_password = "chay17";
 $acc_fullname = "Marella Buhay";
-$acc_address = "Marinduque PH";
+$acc_address = "Santa Cruz,Marinduque PH";
 
 //for checking url for redirections
 $url_add = "http://".$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
